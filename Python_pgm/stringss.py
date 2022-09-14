@@ -1,0 +1,10 @@
+print("Today is a good day")
+print('Python is fun')
+print("Python is easy to use")
+print('We can include "Quotes" in strings')
+print("hello" + " world")
+greeting ="Hello"
+name=input("Please Enter Your Name : ")
+print(greeting + ' ' +name)
+print("This is \n my entertainment\nand what is ur")
+print("1\t2\t3\t4")
